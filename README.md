@@ -23,10 +23,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2025/08/21/86ab221e-4da4-4fcd-9515-41bf8d4c121c/MGP-SPR-HUN.jpg?width=400" group-title="LIVE EVENT",MGP TISSOT SPRINT | 20:00 WIB
+#EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2025/08/21/6ebf4d54-0a64-46a1-9ce4-81bbf147d368/MGP-GP-HUN.jpg?width=850&height=480" group-title="LIVE EVENT",MGP RACE | 16:00 - 19:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd#
 https://www.image2url.com/r2/default/videos/1780758278364-25e15094-ba14-459b-9687-ab6d64266584.mp4
 
 #EXTINF:-1 tvg-id="spotv-2-hd" tvg-logo="https://i.ibb.co.com/23K7ryNQ/images.jpg" group-title="LIVE EVENT" ,MotoGP Play 1
