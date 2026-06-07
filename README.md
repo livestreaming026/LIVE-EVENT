@@ -5,7 +5,7 @@ https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/BBnQcZozcAEScTWERdHy5tlg5mo=/1116x633/filters:strip_icc():quality(80)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg",Indonesia U19 vs Vietnam U19 | 20:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-
+https://live2.pro2cdnlive.com/live/channel5.m3u8
 https://www.image2url.com/r2/default/videos/1780826310173-9a29bc52-1e32-4183-866d-4bddd472c9ca.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZqycgZ6/images.png" group-title="LIVE EVENT" ,Formula 1 Play 1
