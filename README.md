@@ -6,7 +6,7 @@ https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd#
-https://www.image2url.com/r2/default/videos/1780758278364-25e15094-ba14-459b-9687-ab6d64266584.mp4
+https://cdn.aceimg.com/aJhIPxfgN.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZqycgZ6/images.png" group-title="LIVE EVENT" ,Formula 1 Play 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
