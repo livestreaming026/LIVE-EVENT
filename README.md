@@ -31,7 +31,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="LIVE EVENT",WorldSBK | 12 - 14 2026 | ROUND🇮🇹
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="LIVE EVENT",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
