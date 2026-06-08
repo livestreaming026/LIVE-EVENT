@@ -2,11 +2,22 @@
 #EXTINF:-1 group-title="Info Grup" tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-27.png",Telegram
 https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
 
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/bjG8h2Th/c9518c.jpg",Indonesia vs Mozambique - FIFA Matchday | 9 Juni 2026 · 20.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://drive.usercontent.google.com/download?id=1a4dx3jAfcV5by7FGj2ipOZxXMvxXq1L0&export=download
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/WN98LQy8/9afc95.webp",Indonesia vs Cambodia - FIFA Women's Matchday | 9 Juni 2026 · 15.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://drive.usercontent.google.com/download?id=1O3A8K2l2qYyqQTPbYT-r32klIG-hvWq_&export=download
+
 #EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/b59vnTpS/IMG-20260607-225706.jpg" group-title="LIVE EVENT",MGP | 19 - 21 Jun 2026 | CZECHIA🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd#
-https://cdn.aceimg.com/aJhIPxfgN.mp4
+https://drive.usercontent.google.com/download?id=1-MnZcUZQkwDjytxlb7pmRNNZLx44IWPo&export=download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZqycgZ6/images.png" group-title="LIVE EVENT" ,Formula 1 Play 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
