@@ -17,7 +17,7 @@ https://drive.usercontent.google.com/download?id=1O3A8K2l2qYyqQTPbYT-r32klIG-hvW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd#
-https://drive.usercontent.google.com/download?id=1-MnZcUZQkwDjytxlb7pmRNNZLx44IWPo&export=download
+https://drive.usercontent.google.com/download?id=1kYUJE8gJ5Y2Vg58hqql0cYGRcYsResQT&export=download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZqycgZ6/images.png" group-title="LIVE EVENT" ,Formula 1 Play 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
