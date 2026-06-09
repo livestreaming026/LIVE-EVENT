@@ -30,6 +30,9 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://tfwl4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel25/playlist.m3u8?wsSecret=69e7958cb5fe5a63f7e4b32721f79086&wsABSTime=1781033762&wsSession=2807f27c947653b14b4a3cce-178099056451880&wsIPSercert=027c35e292a7fdd0f31a87fffd919d63&wsBindIP=2&wsserid=1168240905488264804
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/WN98LQy8/9afc95.webp",Indonesia W vs Cambodia W | 15.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livenobar.kamialoha4d.in
 https://stream.yultech.online/hls/live/sd-6Mwe5jfenChAkrB1aD/main_stream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
