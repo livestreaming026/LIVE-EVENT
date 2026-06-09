@@ -20,6 +20,11 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="LIVE EVENT",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/bjG8h2Th/c9518c.jpg",Indonesia vs Mozambique | Play 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://tfwl0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=66a83c27ba20c799ba393e2a6c461f7a&wsABSTime=1781047671&wsSession=3833061181ece8f99c767bb5-178100447820020&wsIPSercert=027c35e292a7fdd0f31a87fffd919d63&wsBindIP=2&wsserid=1168278524587755016
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
