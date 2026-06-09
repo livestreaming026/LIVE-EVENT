@@ -30,6 +30,8 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://tfwl4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel25/playlist.m3u8?wsSecret=69e7958cb5fe5a63f7e4b32721f79086&wsABSTime=1781033762&wsSession=2807f27c947653b14b4a3cce-178099056451880&wsIPSercert=027c35e292a7fdd0f31a87fffd919d63&wsBindIP=2&wsserid=1168240905488264804
 
+https://stream.yultech.online/hls/live/sd-6Mwe5jfenChAkrB1aD/main_stream.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
