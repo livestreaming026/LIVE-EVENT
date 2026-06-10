@@ -3,16 +3,13 @@
 https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
 
 
-#EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/b59vnTpS/IMG-20260607-225706.jpg" group-title="LIVE EVENT",MGP | 19 - 21 Jun 2026 | CZECHIA🇨🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd#
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b59vnTpS/IMG-20260607-225706.jpg" group-title="JADWAL SPORTS",MGP | 19 - 21 Jun 2026 | CZECHIA🇨🇿
 https://drive.usercontent.google.com/download?id=1kYUJE8gJ5Y2Vg58hqql0cYGRcYsResQT&export=download
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ycvBPDNZ/WE-GO-AGAIN-Its-race-week-once-more-as-Barcelona-completes-a-double-header-F1-Formula1.jpg" group-title="LIVE EVENT",Formula 1 | 12 - 14 Jun 2026 | BARCELONA🇪🇦
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ycvBPDNZ/WE-GO-AGAIN-Its-race-week-once-more-as-Barcelona-completes-a-double-header-F1-Formula1.jpg" group-title="JADWAL SPORTS",Formula 1 | 12 - 14 Jun 2026 | BARCELONA🇪🇦
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="LIVE EVENT",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="JADWAL SPORTS",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
