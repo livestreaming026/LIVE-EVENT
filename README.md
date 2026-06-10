@@ -3,11 +3,6 @@
 https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/bjG8h2Th/c9518c.jpg",Indonesia vs Mozambique - FIFA Matchday | 9 Juni 2026 · 20.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://drive.usercontent.google.com/download?id=1a4dx3jAfcV5by7FGj2ipOZxXMvxXq1L0&export=download
-
 #EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/b59vnTpS/IMG-20260607-225706.jpg" group-title="LIVE EVENT",MGP | 19 - 21 Jun 2026 | CZECHIA🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
@@ -19,12 +14,6 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="LIVE EVENT",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/bjG8h2Th/c9518c.jpg",Indonesia vs Mozambique | Play 1
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://stream.titanlivescore.com/live/default-100000095.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
