@@ -15,6 +15,11 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 #EXTINF:-1 group-title="JADWAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/qTyv-cvd-xSUPaaO66tUeII70cQ=/1116x633/filters:strip_icc():quality(80)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg",Indonesia U-19 vs Australia U-19 | AFF U-19 2026 | 11 Juni 2026 / 20.15 WIB
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/qTyv-cvd-xSUPaaO66tUeII70cQ=/1116x633/filters:strip_icc():quality(80)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg",Indonesia U-19 vs Australia U-19 | Play🔴
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel15.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
