@@ -13,10 +13,10 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="WC2026⚽", WC2026 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WC2026⚽", WC2026 🇮🇩
 https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="WC2026⚽", WC2026 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WC2026⚽", WC2026 🇮🇩
 https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="WC2026⚽" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",WC2026 🇮🇩
