@@ -12,6 +12,9 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="JADWAL SPORTS",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
+#EXTINF:-1 group-title="Jadwal" tvg-logo="https://thumbor.prod.vidiocdn.com/qTyv-cvd-xSUPaaO66tUeII70cQ=/1116x633/filters:strip_icc():quality(80)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg",Indonesia U-19 vs Australia U-19 | AFF U-19 2026 | 11 Juni 2026 / 20.15 WIB
+https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
