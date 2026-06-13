@@ -12,14 +12,6 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JWy2Pxq/717993792-18589989643053688-2089806923131238595-n.jpg" group-title="JADWAL SPORTS",WorldSBK | 12 - 14 Jun 2026 | ROUND🇮🇹
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
-#EXTINF:-1 group-title="JADWAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/xkfOAXD2MUBqdx5oGanI_uDnKRE=/1116x633/filters:strip_icc():quality(80)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132027/3b10d9.jpg",Cambodia U-19 vs Indonesia U-19 | ASEAN U-19 Boys' Bank Sumut Championship 2026 | 13 Juni 2026 / 16.00 WIB
-https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/xkfOAXD2MUBqdx5oGanI_uDnKRE=/1116x633/filters:strip_icc():quality(80)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132027/3b10d9.jpg",Cambodia U-19 vs Indonesia U-19 | Play🔴
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel6.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WC2026⚽", WC2026 🇮🇩
 https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
