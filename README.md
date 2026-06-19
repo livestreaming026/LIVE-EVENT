@@ -356,12 +356,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.ibb.co.com/23K7ryNQ/images.jpg" group-title="LIVE EVENT" , MotoGP Play 4
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.ibb.co.com/23K7ryNQ/images.jpg" group-title="LIVE EVENT" , MotoGP Play 5
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23K7ryNQ/images.jpg" group-title="LIVE EVENT",MotoGP Play 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23K7ryNQ/images.jpg" group-title="LIVE EVENT",MotoGP Play 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
