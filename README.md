@@ -4,7 +4,7 @@ https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857
 
 
 #EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2025/12/01/d41296d4-f529-437a-9415-18576edae4fc/Assen.jpg?width=630&height=370" group-title="JADWAL SPORTS",MOTOGP™ | TT Circuit Assen🇳🇱 | 26 - 28 JUNI 2026
-https://drive.usercontent.google.com/download?id=1kYUJE8gJ5Y2Vg58hqql0cYGRcYsResQT&export=download
+https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
 #EXTINF: -1 tvg-logo="https://media.formula1.com/image/upload/ar_16:9,c_fill,g_south/c_lfill,w_3392/q_auto/v1740000001/fom-website/campaign/impact/Austria%202025.webp" group-title="JADWAL SPORTS",Formula 1 | AUSTRIA🇦🇹 | 26 - 28 JUNI 2026
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
