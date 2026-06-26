@@ -31,6 +31,14 @@ https://master4.idxplayer.com/hls/1/stream.m3u8?player=1&t=1780112187572
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ibb.co.com/MbQrgCr/red-live-line-stream-sign-streaming-tv-banner-online-broadcast-news-show-channel-television-541122-3.jpg",LIVE 3
+#EXTVLCOPT:https://sportzfylive.com/
+https://sportzfylive.com/stream/hd5-motogp-netherlands-practice-2026-06-26/manifest.m3u8
+
+#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ibb.co.com/MbQrgCr/red-live-line-stream-sign-streaming-tv-banner-online-broadcast-news-show-channel-television-541122-3.jpg",LIVE 4
+#EXTVLCOPT:https://sportzfylive.com/
+https://sportzfylive.com/stream/br6-motogp-netherlands-practice-2026-06-26/manifest.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
