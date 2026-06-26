@@ -21,7 +21,7 @@ https://s1.strea.ru/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.livemotogp.net
 https://s2.strea.ru/index.m3u8
 
-#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2M1PlM97iqEuD-set66a8uRcBSeyGrAqJ0ae3N3hUKyXlp0r1nNVcHGeDf7bvHg1UQBX2mXeibrqxwQweBFou5HJxC_tjBmt6b605L8qc2FSaAuq-DAaPQHmoo9rnO2X6MoMKbFzPDuQd8K6gmU4TVLrR1Sx6Qnllg6c7IUJJJPsh1PQBL3sczhntrk/s200/newlogo.png",LIVE CH 1
+#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ibb.co.com/MbQrgCr/red-live-line-stream-sign-streaming-tv-banner-online-broadcast-news-show-channel-television-541122-3.jpg",LIVE CH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 https://master3.hdtvs1.top/hls/stream.m3u8
