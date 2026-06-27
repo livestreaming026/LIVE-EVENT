@@ -13,6 +13,9 @@ https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYO
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
 
+#EXTINF:-1 data-source="Manual" group-title="LIVE STREAM" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVR SPORTS FIFA WORLD CUP 2026
+https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8
+
 #EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ibb.co.com/MbQrgCr/red-live-line-stream-sign-streaming-tv-banner-online-broadcast-news-show-channel-television-541122-3.jpg",MGP LIVE CH 1
 #EXTVLCOPT:http-referrer=https://www.zvstreams.com/
 https://s1.strea.ru/index.m3u8
