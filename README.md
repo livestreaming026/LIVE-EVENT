@@ -45,7 +45,11 @@ https://backend.footfytv.live/proxy/direct?url=http%3A%2F%2F193.47.62.55%2Fhls%2
 
 #EXTINF:-1 tvg-expire="1782565200" tvg-start="1782547200" tvg-uid="cd52ca4f980b7d0a96f0d3560a2fdc4b" data-source="Footystream" tvg-logo="https://i.ibb.co.com/MbQrgCr/red-live-line-stream-sign-streaming-tv-banner-online-broadcast-news-show-channel-television-541122-3.jpg" group-title="LIVE STREAM",F1 LIVE 1
 #EXTVLCOPT:http-referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fedge2caster.pro%2Fhls%2Fhbfkazbkaznc49.m3u8%3F&Referer=https%3A%2F%2Fstreamscenter.online%2F&Origin=https%3A%2F%2Fstreamscenter.online
+https://backend.footfytv.live/proxy/direct?url=http%3A%2F%2F193.47.62.59%2Fhls%2FzlllQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F
+
+#EXTINF:-1 tvg-expire="1782565200" tvg-start="1782547200" tvg-uid="cd52ca4f980b7d0a96f0d3560a2fdc4b" data-source="Footystream" tvg-logo="https://i.ibb.co.com/MbQrgCr/red-live-line-stream-sign-streaming-tv-banner-online-broadcast-news-show-channel-television-541122-3.jpg" group-title="LIVE STREAM",F1 LIVE 2
+#EXTVLCOPT:http-referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Finstreams.pro%2Fbil2%2Fskyf1de%2Ftracks-v1a1%2Fmono.m3u8&Referer=https%3A%2F%2Finstream.click%2F&Origin=https%3A%2F%2Finstream.click
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
