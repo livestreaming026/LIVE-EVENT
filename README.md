@@ -3,10 +3,10 @@
 https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
 
 
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2025/12/01/d41296d4-f529-437a-9415-18576edae4fc/Assen.jpg?width=630&height=370" group-title="JADWAL SPORTS",MOTOGP™ | TT Circuit Assen🇳🇱 | 26 - 28 JUNI 2026
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2025/09/22/57ae809b-e377-4a4a-8e23-2035e50e1494/12_Germany.jpg?width=630&height=370" group-title="JADWAL SPORTS",MGP™ | GERMANY🇩🇪 SACHSENRING | 10 - 12 JULI 2026
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
-#EXTINF: -1 tvg-logo="https://media.formula1.com/image/upload/ar_16:9,c_fill,g_south/c_lfill,w_3392/q_auto/v1740000001/fom-website/campaign/impact/Austria%202025.webp" group-title="JADWAL SPORTS",Formula 1 | AUSTRIA🇦🇹 | 26 - 28 JUNI 2026
+#EXTINF: -1 tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_1296/q_auto/v1740000001/fom-website/static-assets/2026/races/card/great-britain.webp" group-title="JADWAL SPORTS",Formula 1 | GREAT BRITAIN🇬🇧 | 03 - 05 JULI 2026
 https://drive.usercontent.google.com/download?id=1pV21HZkFtYC82nci2uiilo_ugwmBYOhb&export=download
 
 #EXTINF:-1 tvg-logo="https://resources.wsbk.pulselive.com/photo-resources/2026/02/11/3acb933b-fc4e-48ed-b8ca-8b5e112477e2/R8_UK.jpg?width=630&height=370" group-title="JADWAL SPORTS",WorldSBK | Prosecco DOC UK Round Donington Park🇬🇧 | 10 - 12 JULI 2026
